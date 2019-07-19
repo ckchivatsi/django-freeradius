@@ -69,3 +69,6 @@ media/
 
 #Pycharm projects
 .idea/
+
+#Visual code 
+.vscode/
